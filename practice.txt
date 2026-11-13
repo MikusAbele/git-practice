@@ -5,3 +5,4 @@ Macos Git
 4
 piektais
 6.
+7.
