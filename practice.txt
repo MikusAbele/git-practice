@@ -6,3 +6,4 @@ Macos Git
 piektais
 6.
 7.
+ast
