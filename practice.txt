@@ -1,1 +1,3 @@
 Pirmais commit
+Otrā rindiņa
+Macos Git
