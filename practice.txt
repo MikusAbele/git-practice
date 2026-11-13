@@ -8,3 +8,4 @@ piektais
 7.
 ast
 9.
+i0
